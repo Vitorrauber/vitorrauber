@@ -2,7 +2,7 @@
 Meu nome é **Vítor** Brites **Rauber**.
 Sou estudante de engenharia física pela Universidade Federal do Rio Grande do Sul **(UFRGS)** <br>
 
-Estou estundando Python com ênfase em Machine Learning e Data Science
+Estou Estudando Python com ênfase em Machine Learning e Data Science
 ## Conhecimento
 ### Programação
 -  Python(Numpy, Sklearn, Pandas, Seaborn,
